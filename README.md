@@ -12,6 +12,10 @@ This repo is designed to practice the concepts we've already covered.
  - [ ] Collaboration using Git and GitHub
  - [ ] Continuous Integration
  - [ ] Continuous Deployment
+ 
+As well as introduce some new:
+
+ - [ ] [Rack test](http://sinatrarb.com/testing.html)
 
 ## ToDos
 
