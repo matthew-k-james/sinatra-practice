@@ -7,6 +7,7 @@ This repo is designed to practice the concepts we've already covered.
  - [ ] Basics of Ruby, methods, conditionals, loops
  - [ ] Basic OOP within Ruby
  - [ ] Web requests (HTTP), HTML, CSS
+ - [ ] Using an MVC design approach to split up code
  - [ ] Test driven development with Ruby
  - [ ] Collaboration using Git and GitHub
  - [ ] Continuous Integration
