@@ -38,5 +38,6 @@ Your cool score is initially zero and is calculated by the following algorithm:
 * Increase cool score by 14 if first name ends with a "N"
 * Your cool score is increased by 0.5 * age, with no half points.  Any decimal value is ignored, e.g. 4.5 -> 4
 * Your cool score is adjusted based on favourite colour: Orange +5, Red +3, Blue -1, Green -5.
-* If your height is between 1.5 and 1.9 meters you get an extra 3 cool points.
+* If your height is between 1.5 and 1.9 meters your cool score is doubled (after calculating everything above).
 
+The calculation above should produce a numerical cool score as a whole number.
