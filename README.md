@@ -12,6 +12,8 @@ This repo is designed to practice the concepts we've already covered.
  - [ ] Collaboration using Git and GitHub
  - [ ] Continuous Integration
  - [ ] Continuous Deployment
+ - [ ] Linting
+ - [ ] Code coverage reporting
  
 As well as introduce some new:
 
